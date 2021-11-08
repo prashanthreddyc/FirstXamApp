@@ -26,5 +26,10 @@ namespace FirstXamApp
 		{
 			Navigation.PushAsync(new GridExample());
 		}
+
+		private void Button_Clicked_1(object sender, EventArgs e)
+		{
+			Navigation.PushAsync(new ImagePage());
+		}
 	}
 }
