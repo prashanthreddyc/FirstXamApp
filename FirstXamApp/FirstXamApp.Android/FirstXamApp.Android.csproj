@@ -87,7 +87,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\shopping.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FirstXamApp\FirstXamApp.csproj">
       <Project>{531A2301-7B9E-4A90-B13E-9F2F37A127B0}</Project>
